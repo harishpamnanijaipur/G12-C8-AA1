@@ -1,0 +1,9 @@
+
+def pow(x,y):
+  p=x**y
+  return p
+  
+a=2
+b=3
+print(pow(a,b))
+  
